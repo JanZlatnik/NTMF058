@@ -43,22 +43,6 @@ program double_slit
     
     allocate(A(2*kl+ku+1, N), B(kl+ku+1, N))
     call build_cn_matrices(A, B, potential)
-    
-    
-    
-    !open(unit=11111, file='B_matrix.csv', status='replace', action='write')
-    ! do i = 1, kl+ku+1
-    ! do j = 1, N
-    !    re = real(B(i,j))
-    !    im = aimag(B(i,j))
-    !    write(val_str, '(F0.2, A, F0.2, A)') re, ' + ', im, 'i'
-    !    if (j < N) then
-    !       write(11111, '(A)', advance='no') trim(val_str) // ','
-    !    else
-    !       write(11111, '(A)') trim(val_str)
-    !    end if
-    ! end do
-    !end do
 
 
     call CN_solver(psi, A, B, wfn_u, flux_u)
