@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|d:\\univerzita\\numerick\u00E9 metody\\double slit\\parameters.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|solutionrelative:parameters.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\initialization.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|solutionrelative:initialization.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\crank_nicolson.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|solutionrelative:crank_nicolson.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\doubleslit.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|solutionrelative:doubleslit.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\io.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{628B61BA-6AA2-C64A-95C8-DBCE0E9B8E70}|Double Slit.vfproj|solutionrelative:io.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoubleSlit.f90",
+              "DocumentMoniker": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\DoubleSlit.f90",
+              "RelativeDocumentMoniker": "DoubleSlit.f90",
+              "ToolTip": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\DoubleSlit.f90",
+              "RelativeToolTip": "DoubleSlit.f90",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-08-06T20:23:54.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crank_Nicolson.f90",
+              "DocumentMoniker": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Crank_Nicolson.f90",
+              "RelativeDocumentMoniker": "Crank_Nicolson.f90",
+              "ToolTip": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Crank_Nicolson.f90",
+              "RelativeToolTip": "Crank_Nicolson.f90",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGIAAAAWAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-08-07T20:22:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IO.f90",
+              "DocumentMoniker": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\IO.f90",
+              "RelativeDocumentMoniker": "IO.f90",
+              "ToolTip": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\IO.f90",
+              "RelativeToolTip": "IO.f90",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-08-07T20:24:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Initialization.f90",
+              "DocumentMoniker": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Initialization.f90",
+              "RelativeDocumentMoniker": "Initialization.f90",
+              "ToolTip": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Initialization.f90",
+              "RelativeToolTip": "Initialization.f90",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-08-07T17:05:38.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parameters.f90",
+              "DocumentMoniker": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Parameters.f90",
+              "RelativeDocumentMoniker": "Parameters.f90",
+              "ToolTip": "D:\\Univerzita\\Numerick\u00E9 metody\\Double Slit\\Parameters.f90",
+              "RelativeToolTip": "Parameters.f90",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-08-07T16:08:59.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
