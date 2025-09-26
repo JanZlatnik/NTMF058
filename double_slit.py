@@ -14,6 +14,7 @@ flux_file = "flux.bin"
 
 output_mp4 = "double_slit.mp4"
 save_mp4 = True  
+Logscale = False
 
 # Rendering/quality options
 display_interpolation = 'bilinear'  
@@ -151,7 +152,10 @@ cbar_pot.ax.tick_params(labelsize=SMALL_SIZE)
 
 # Wavefunction plot
 psi0_display = psi_abs2[0]
-im = ax_left.imshow(psi0_display, origin='lower', extent=extent, cmap=psi_cmap, norm=LogNorm(vmin=vmin, vmax=vmax), interpolation=display_interpolation, animated=True)
+if Logscale:
+    im = ax_left.imshow(psi0_display, origin='lower', extent=extent, cmap=psi_cmap, norm=LogNorm(vmin=vmin, vmax=vmax), interpolation=display_interpolation, animated=True)
+else:
+    im = ax_left.imshow(psi0_display, origin='lower', extent=extent, cmap=psi_cmap, interpolation=display_interpolation, animated=True)
 cbar_psi = fig.colorbar(im, ax=ax_left, orientation='vertical', pad=0.1, fraction=0.046, location = 'left')
 cbar_psi.ax.set_title(r"$|\psi|^2$", fontsize=SMALL_SIZE, pad=6, loc='left')
 cbar_psi.ax.tick_params(labelsize=SMALL_SIZE)

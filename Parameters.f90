@@ -39,8 +39,8 @@ module parameters_mod
     real*8, parameter   :: mass = 1.0
     real*8, parameter   :: x0 = -0.5 * xmax
     real*8, parameter   :: y0 = 0.0
-    real*8, parameter   :: sigmax = 1.5
-    real*8, parameter   :: sigmay = 1.5
+    real*8, parameter   :: sigmax = 7.0
+    real*8, parameter   :: sigmay = 7.0
     real*8, parameter   :: px0 = 15.0
     real*8, parameter   :: py0 = 0.0 
     
